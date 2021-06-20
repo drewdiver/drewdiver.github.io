@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drew Diver</title>
-    <link>https://drewdiver.com/</link>
-    <description>Recent content on Drew Diver</description>
+    <title>Books on Drew Diver</title>
+    <link>https://drewdiver.com/tags/books/</link>
+    <description>Recent content in Books on Drew Diver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://drewdiver.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://drewdiver.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://drewdiver.com/post/2021-06-20-the-factory/</link>
@@ -140,28 +140,6 @@
 &lt;p&gt;Lying, as rule for life, is inherently unstable. More generally, selfishness, or free-riding parasitism on the goodwill of others, may work for me as a lone selfish individual and give me personal satisfaction. But I cannot wish that everybody would adopt selfish parasitism as a moral principle, if only because then I would have nobody to parasitize.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Here&amp;rsquo;s hoping for a better four years…&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Reality Bytes</title>
-      <link>https://drewdiver.com/post/2021-01-17-reality-bites/</link>
-      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewdiver.com/post/2021-01-17-reality-bites/</guid>
-      <description>&lt;p&gt;A relevent quip from a conversation in the novel The Broom of the System by David Foster Wallace:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;RICK: You’re being cruel, Jay. Go back to blatant bullshit. I vastly prefer blatent bullshit to overt cruelty.&lt;/p&gt;
-&lt;p&gt;JAY: You know, Olaf Blentner once said to me, over tea, that &lt;strong&gt;when reailty is unpleasant, realists tend to be unpopular.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://drewdiver.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewdiver.com/contact/</guid>
-      <description>You can reach me by Email at shout@drewdiver.</description>
     </item>
     
   </channel>
