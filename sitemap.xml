@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://drewdiver.com/post/2021-06-21-hsuan/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drewdiver.com/tags/buddhism/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drewdiver.com/post/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drewdiver.com/tags/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drewdiver.com/tags/taoism/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drewdiver.com/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://drewdiver.com/post/2021-06-20-the-factory/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://drewdiver.com/tags/books/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://drewdiver.com/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://drewdiver.com/post/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://drewdiver.com/tags/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://drewdiver.com/post/2021-06-13-the-changeling/</loc>
@@ -35,6 +44,9 @@
     <loc>https://drewdiver.com/post/2021-03-09-wherever-you-go/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://drewdiver.com/post/2021-02-09-walden/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://drewdiver.com/post/2021-02-05-way-of-zen/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -53,5 +65,7 @@
     <loc>https://drewdiver.com/categories/</loc>
   </url><url>
     <loc>https://drewdiver.com/contact/</loc>
+  </url><url>
+    <loc>https://drewdiver.com/music/</loc>
   </url>
 </urlset>
