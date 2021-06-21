@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://drewdiver.com/post/2021-06-21-a-new-host/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://drewdiver.com/post/2021-06-21-hsuan/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drewdiver.com/tags/blog/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://drewdiver.com/tags/buddhism/</loc>
@@ -28,6 +34,18 @@
   </url><url>
     <loc>https://drewdiver.com/post/2021-06-13-the-changeling/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drewdiver.com/photos/flowers/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drewdiver.com/tags/flowers/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drewdiver.com/tags/photos/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drewdiver.com/photos/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://drewdiver.com/post/2021-05-16-no-longer-human/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
