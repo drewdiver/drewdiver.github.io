@@ -27,15 +27,6 @@
     </item>
     
     <item>
-      <title>What is this?</title>
-      <link>https://drewdiver.com/post/2021-06-28-about/</link>
-      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://drewdiver.com/post/2021-06-28-about/</guid>
-      <description>&lt;p&gt;What is this blog? I keep a cheap notebook next to my studio station and log any changes, thoughts, ideas or progress after I&amp;rsquo;m done with a session. It&amp;rsquo;s brief enough that I figured &amp;ldquo;Why not use this as the basis for my continued efforts in song writing and sound exploration?&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://drewdiver.com/post/2021-06-24-materials/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
@@ -250,6 +241,15 @@
       <description>&lt;p&gt;Everything now &amp;ldquo;talks&amp;rdquo; with Logic Pro. The modular can be controlled via USB -&amp;gt; MIDI or via the Korg SQ-1 via CV/Gate which can be clocked via Logic Pro.&lt;/p&gt;
 &lt;p&gt;In terms of the modular, I&amp;rsquo;ve been investigating pan/fade module&lt;/p&gt;
 &lt;p&gt;At the moment I feel like I&amp;rsquo;m getting reacquainted with my gear.  Reading through &amp;ldquo;Analog Synthesis&amp;rdquo; by Reinhard Schmitz I&amp;rsquo;m gaining a better foothold on the fundamentals of modular synthesis that I didn&amp;rsquo;t realise I was missing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://drewdiver.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://drewdiver.com/about/</guid>
+      <description>What is this blog?</description>
     </item>
     
     <item>
