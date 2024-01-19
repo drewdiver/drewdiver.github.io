@@ -1,0 +1,9 @@
+<nav class="nav">
+	<ul>
+		{{ range .Site.Menus.main }}
+		{{ $text := print .Name | safeHTML }}
+			<li><a href="{{ .URL }}">{{ $text }}</a></li>
+		{{ end }}
+	</ul>
+</nav>
+<div style="float: clear;"></div>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="The homepage of Drew Diver.">
+	<meta name="robots" content="index, follow, noai, noimageai">
+	<link rel="alternate" type="application/rss+xml" href='{{ "feed.xml" | absURL }}' />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="me" href="https://social.linux.pizza/@drewdiver">
+	<link href="https://codeberg.org/drewdiver" rel="me">
+	<link href="https://github.com/drewdiver" rel="me">
+	{{ hugo.Generator }}
+	{{ range .AlternativeOutputFormats -}}
+    	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end -}}
+	{{ $title := print .Title " | " .Site.Title }}
+	{{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+	<title>{{ $title }}</title>
+	{{ partial "style.html" . }}
+</head>

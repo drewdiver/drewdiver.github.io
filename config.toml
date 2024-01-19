@@ -1,0 +1,44 @@
+baseURL = "https://drewdiver.com"
+languageCode = "en-us"
+title = "Drew Diver"
+paginate = 5
+timeZone = "Europe/Stockholm"
+
+[permalinks]
+	log = "/blog/:filename/"
+	microblog = "/microblog/:filename/"
+
+[menu]
+	[[menu.main]]
+		name = "RSS"
+		url = "/feed.xml"
+		weight = 4
+    [[menu.main]]
+        name = "About"
+        url = "/about"
+        weight = 3
+	[[menu.main]]
+		name = "Now"
+		url = "/now"
+		weight = 2
+	[[menu.main]]
+		name = "Home"
+		url = "/"
+		weight = 1
+
+disableKinds = ["taxonomy", "term"]
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[params]
+	description = "Tired, since 1985"
+	author = "Drew Diver"
+	dateFormat = "2006-01-02"
+
+[outputFormats]
+	[outputFormats.RSS]
+		mediatype = "application/rss"
+		baseName = "feed"
+

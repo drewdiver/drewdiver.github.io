@@ -1,0 +1,12 @@
+{{ define "main" }}
+<p><a href="/microblog">👈 Back</a> | <a href="/">🏡 Home</a></p>
+{{ if .Title }}<h2>{{ .Title }}</h2>{{ end }}
+	<p class="date">{{ .PublishDate.Format "2006-01-02" }}</p>
+	{{ .Content }}
+	{{ partial "modified.html" . }}
+	<p>
+  {{ range (.GetTerms "tags") }}
+  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+  {{ end }}
+</p>
+{{ end }}
