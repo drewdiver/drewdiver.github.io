@@ -21,12 +21,13 @@ Here is a list of the services and applications I run 100% of the time. These ar
     - Mostly using the web interface, this has loads of features to help fine tune those pesky sites that are a little more user hostile...
 
 - [IT-Tools](https://it-tools.tech/)
-    - A recent addition, if you're like me, I'm not so keen on pasting my text into random websites to perform formatting, validation, etc.
+    - If you're like me, I'm not so keen on pasting my text into random websites to perform formatting, validation, etc.
 
 - [Jellyfin](https://jellyfin.org)
     - [Finamp](https://github.com/jmshrv/finamp/releases) on my iPhone as well as ~~[Swiftfin](https://github.com/jellyfin/Swiftfin)~~ [Infuse](https://firecore.com/infuse) for Apple TV and iPhone.
 
 - [Memos](https://www.usememos.com/)
+    -  A sort of Twitter-like note application that displays chronologically as a feed. It’s grown on me more than I thought.
 
 - [Syncthing](https://syncthing.net/)
     - No Google, iCloud etc.. this does exactly as advertised. two-way sync across my devices to my NAS. Most of what I'm syncning is text-based, so [Tarsnap](https://tarsnap.com) is my _offsite_ backup of choice.
