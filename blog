@@ -1,0 +1,26 @@
+#!/bin/bash
+
+OS=$(uname)
+
+if ! tmux has-session -t blog; then
+    tmux new-session -s blog -d
+    tmux send-keys -t blog 'cd ~/drewdiver.github.io' C-m
+    tmux send-keys -t blog 'vim' C-m
+    sleep 1
+    tmux send-keys -t blog 'C-n' C-m
+    tmux split-window -v -t blog
+    tmux select-layout -t blog main-horizontal
+    tmux send-keys -t blog:1.2 'cd ~/drewdiver.github.io' C-m
+    tmux send-keys -t blog:1.2 'hugo serve -D' C-m
+    tmux select-pane -U -t blog # start in the Vim window
+fi
+
+if [[ "${OS}" == "Darwin" ]]; then 
+    open -g -a 'LibreWolf.app' "http://localhost:1313"
+else
+    librewolf "http://localhost:1313"
+fi
+
+tmux attach -t blog
+
+exit 0
