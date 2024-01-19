@@ -20,10 +20,8 @@ As of late, my interests include (but are not limited to) permacomputing, de-gro
 
 **Elsewhere**
 
-- 🐧 [Codeberg](https://codeberg.org/drewdiver)
 - 👨‍💻 [GitHub](https://github.com/drewdiver)
 - 🤮 [LinkedIn](https://www.linkedin.com/in/drewdiver)
-- 🎵 [ListenBrainz](https://listenbrainz.org/user/tiredsince1985)
 
-**This website** is generated using the [Hugo](https://gohugo.io) framework and hosted via [Codeberg Pages](https://codeberg.page). The "template" has been created from scratch using the docs and some internet searching.
+**This website** is generated using the [Hugo](https://gohugo.io) framework and hosted via [GitHub Pages](https://pages.github.com/). The "template" has been created from scratch using the docs and some internet searching.
 
