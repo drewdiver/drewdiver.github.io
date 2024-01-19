@@ -1,6 +1,6 @@
 # drewdiver.com
 
-Hello! This is the code for my personal website. Everything was created from scratch using [Hugo](https://gohugo.io) and good 'ol HTML/CSS.
+This is the code for my personal website.
 
 ## Running Locally
 
