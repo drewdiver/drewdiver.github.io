@@ -10,16 +10,12 @@ timeZone = "Europe/Stockholm"
 
 [menu]
 	[[menu.main]]
-		name = "RSS"
+		name = "Feed"
 		url = "/feed.xml"
-		weight = 4
-    [[menu.main]]
-        name = "About"
-        url = "/about"
-        weight = 3
+		weight = 3
 	[[menu.main]]
-		name = "Now"
-		url = "/now"
+		name = "Blog"
+		url = "/blog"
 		weight = 2
 	[[menu.main]]
 		name = "Home"
