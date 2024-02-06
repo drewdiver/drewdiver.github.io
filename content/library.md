@@ -1,12 +1,12 @@
 ---
-title: "Library"
+title: "Reading Log"
 type: page
 layout: staticpage
 date: "2022-05-11"
 lastmod: "2023-12-19"
 ---
 
-This page is a dedicated reading log, check the Now’ish area of my homepage for what I’m currently reading.
+## Reading Log
 
 ### 2023
 
