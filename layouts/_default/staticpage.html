@@ -1,5 +1,6 @@
 {{ define "main" }}
+<p><a href="/">← Back</a></p>
+{{ if .Title }}<h2>{{ .Title }}</h2>{{ end }}
 {{ .Content }}
 {{ partial "modified.html" . }}
-<!-- <p>^ <a href="#">Top</a></p> -->
 {{ end }}

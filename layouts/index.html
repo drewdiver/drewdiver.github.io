@@ -1,3 +1,37 @@
 {{ define "main" }}
-{{ .Content }}
+<!-- {{ .Content }} -->
+<img src="/images/me.png" />
+
+<h2>About</h2>
+<p>Music maker and digital polymath nearing two decades of experience in the IT industry.</p>
+<p>An Ohio native, currently residing in Sweden.</p>
+
+<h3>Updates</h3>
+<ul>
+{{ range ( where .Site.RegularPages "Type" "blog" | first 3 ) }}
+<li> 
+    <span>
+        <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+            {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+        </time>
+    </span>
+    <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{end}}
+<li><a href="/blog">All posts...</a></li>
+</ul>
+
+<h3>Pages</h3>
+<ul>
+   {{ range ( where .Site.RegularPages "Type" "page" ) }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{end}}
+</ul>
+
+<h3>Elsewhere</h3>
+<ul>
+    <li><a href="https://drewdiver.bandcamp.com" target="_blank">Bandcamp</a></li>
+    <li><a href="https://www.discogs.com/artist/1158105-Drew-Diver" target="_blank">Discogs Credits</a></li>
+    <li><a href="https://github.com/drewdiver" target="_blank">GitHub</a>
+    <li><a href="" target="_blank">LinkedIn</a></li>
+</ul>
 {{ end }}

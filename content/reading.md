@@ -6,8 +6,6 @@ date: "2022-05-11"
 lastmod: "2023-12-19"
 ---
 
-## Reading Log
-
 ### 2023
 
 - ***Doom Guy: Life in First Person*** by John Romero 
