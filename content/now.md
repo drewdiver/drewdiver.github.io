@@ -8,7 +8,7 @@ lastmod: "2024-02-19"
 
 What I'm currently consuming, building, where I'm working, etc.
 
-- 📖 ***Otherland*** by Tad Williams
+- 📖 ***The Atrocity Archives*** by Charles Stross
 - 🎧 ***Cult of the Dead Cow*** by Joseph Menn
 - 📺 ***Curb Your Enthusiasm (Season 12)*** ([IMDb](https://www.imdb.com/title/tt0264235/episodes/?season=12))
 - 📺 ***Tokyo Vice (Season 2)*** ([IMDb](https://www.imdb.com/title/tt2887954/episodes/?season=2))
