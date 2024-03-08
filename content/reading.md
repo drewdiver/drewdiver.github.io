@@ -6,6 +6,11 @@ date: "2022-05-11"
 lastmod: "2023-12-19"
 ---
 
+### 2024
+
+- ***Time and the Soul*** by Jacob Needleman
+- ***Otherland*** by Tad Williams
+
 ### 2023
 
 - ***Doom Guy: Life in First Person*** by John Romero 
